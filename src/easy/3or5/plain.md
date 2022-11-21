@@ -1,1 +1,2 @@
 # Plain English Solution
+First we will create a function with an input of the number, We will then use a for loop to find every multiple of 3 and 5 that is between the range of 3 and the number that has been input. Everytime the for loop finds a multiple it will add that number to a sum that has been declared above the loop

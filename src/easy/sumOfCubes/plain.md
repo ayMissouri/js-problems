@@ -1,1 +1,2 @@
 # Plain English Solution
+Create a function with an input for an array of numbers then work trough the array one at a time to get the cube of each value and then work throuh that array to get the sum of the total.

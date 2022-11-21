@@ -1,1 +1,2 @@
 # Plain English Solution
+First we will create a function with a string input, after that we will have a new variable that calculates the lenght of the string using .length and another variable that will hold the new string. Then we will have a for loop that loops the same amount of times as there are amount of letters in the string that was input. The for loop will find the letter that the loop is on and add it to the new string twice. Once it is all done we will return the newstring.
