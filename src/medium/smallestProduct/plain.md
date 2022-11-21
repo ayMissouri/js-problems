@@ -1,1 +1,2 @@
 # Plain English Solution
+We will first create a function that takes the 2 numbers and finds all the divisors in the range. We will then have another function that checks if the number is a multiple or not. Then the last function checks every number with the other 2 functions to see if its the smallest positive number that can be devided by each number from 1-20

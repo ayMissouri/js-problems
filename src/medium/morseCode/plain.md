@@ -1,1 +1,2 @@
 # Plain English Solution
+First we will create 2 objects that contain the alphabet and the translations to morse code and vise versa. After that we will have a function that will convert the english characters into morse code then send them back. And then another function to do the opposite.
